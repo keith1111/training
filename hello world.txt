@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Console.WriteLine("Hello World");:
 Console.ReadKey();:
+Изменения 
+Еще изменения
+=======
+
